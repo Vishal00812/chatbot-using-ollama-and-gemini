@@ -1,0 +1,10 @@
+langchain
+langchain_core
+streamlit
+langchain_community
+pypdf
+faiss-cpu
+langchainhub
+sentence_transformers
+PyPDF2
+langchain-objectbox
