@@ -8,3 +8,6 @@ langchainhub
 sentence_transformers
 PyPDF2
 langchain-objectbox
+langchain_cohere
+langchain_google_genai
+python-dotenv
